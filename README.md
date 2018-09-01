@@ -49,7 +49,6 @@ The following schedule is tentative, and is subject to change over the course.
 
 | Week | Topic | Reading | Assignment | Due Date |
 |---| --- | --- | --- | --- |
-| w | t   | r   | a   | d   |
 | 1 (9/3, 9/5)      | Introduction, Data Visualization | Chs. 1, 2, 3 |   |  |
 | 2 (9/10, 9/12)    | Workflows, R Markdown | Chs. 4, 6, 8, 27 |  |  |
 | 3 (9/17, 9/19)    | Graphics | Ch. 28 |  |  |
@@ -64,7 +63,7 @@ The following schedule is tentative, and is subject to change over the course.
 | 12 (11/19, 11/21) | Iteration | Ch. 20 |  |  |
 | 13 (11/26, 11/28) | Model Basics | Ch. 23 |  |  |
 | 14 (12/3, 12/5)   | Model Building | Ch. 24 |  |  |
-| 15 (12/10, 12/12) | Final Project |   |  |  |
+| 15 (12/10, 12/12) | Final Project | - |  |  |
 
 
 ## Acknowledgment
