@@ -51,6 +51,20 @@ The following schedule is tentative, and is subject to change over the course.
 |---| --- | --- | --- | --- |
 | w | t   | r   | a   | d   |
 | 1 (9/3, 9/5)      | Introduction, Data Visualization | Chs. 1, 2, 3 |   |  |
+| 2 (9/10, 9/12)    | Workflows, R Markdown | Chs. 4, 6, 8, 27 |  |  |
+| 3 (9/17, 9/19)    | Graphics | Ch. 28 |  |  |
+| 4 (9/24, 9/26)    | *Chusok recess* | - |  |  |
+| 5 (10/1, 10/3)    | Data Transformation | Ch. 5 |  |  |
+| 6 (10/8, 10/10)   | Exploratory Data Analysis | Ch. 7 |  |  |
+| 7 (10/15, 10/17)  | Import and Tidy Data | Chs. 10, 11, 12 |  |  |
+| 8 (10/22, 10/24)  | Relational Data, Strings | Chs. 13, 14 |  |  |
+| 9 (10/29, 10/31)  | Factors, Date and Times | Chs. 15, 16 |  |  |
+| 10 (11/5, 11/7)   | Vectors | Ch. 20 |  |  |
+| 11 (11/12, 11/14) | Functions, Pipes | Chs. 19, 18 |  |  |
+| 12 (11/19, 11/21) | Iteration | Ch. 20 |  |  |
+| 13 (11/26, 11/28) | Model Basics | Ch. 23 |  |  |
+| 14 (12/3, 12/5)   | Model Building | Ch. 24 |  |  |
+| 15 (12/10, 12/12) | Final Project |   |  |  |
 
 
 ## Acknowledgment
