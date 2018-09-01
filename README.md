@@ -50,6 +50,7 @@ The following schedule is tentative, and is subject to change over the course.
 | Week | Topic | Reading | Assignment | Due Date |
 |---| --- | --- | --- | --- |
 | w | t   | r   | a   | d   |
+| 1 (9/3, 9/5)      | Introduction, Data Visualization | Chs. 1, 2, 3 |   |  |
 
 
 ## Acknowledgment
