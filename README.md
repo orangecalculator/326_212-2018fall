@@ -66,7 +66,7 @@ The following schedule is tentative, and is subject to change over the course.
 | 14 (12/3, 12/5)   | Model Building | Ch. 24 |  |  |
 | 15 (12/10, 12/12)   | Final Project | -  |  |  |
 
-   
+
 
 ## Acknowledgment
 Lecture notes for this course were arranged from the source code of the textbook available at <https://github.com/hadley/r4ds>.
