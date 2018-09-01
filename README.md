@@ -47,6 +47,7 @@ Overall, this course will be split into two main parts: (1) lecture sessions on 
 
 The following schedule is tentative, and is subject to change over the course.
 
+
 | Week   | Topic | Reading | Assignment | Due Date |
 | :---   | :---  | :---:  | :---:  | :---:  | :---: |
 | 1 (9/3, 9/5)   | Introduction, Data Visualization | Chs. 1, 2, 3 |  |  |
