@@ -47,9 +47,9 @@ Overall, this course will be split into two main parts: (1) lecture sessions on 
 
 The following schedule is tentative, and is subject to change over the course.
 
-| A | Simple | Table
+| A | Simple | Table |
 |---| --- | --- |
-| a | s   | t
+| a | s   | t   |
 
 
 ## Acknowledgment
