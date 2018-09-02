@@ -8,8 +8,9 @@ Joong-Ho (Johann) Won
 
 **Email**: wonj AT stats DOT snu DOT ac DOT kr
 
-**Class Time**: Mondays 9:00 - 10:50 AM in 28-301 (lectures);
-    Wednesdays 9:00 - 10:50 AM in 25-203 (labs)
+**Class Time**: Mondays 9:00 - 10:50 AM in 28-301 (lecture);
+    Wednesdays 9:00 - 9:50 AM in 25-203 (lab session 1)
+    Wednesdays 10:00 - 11:50 AM in 25-203 (lab session 2)
 
 **Office Hours**: TBD
 
@@ -18,7 +19,7 @@ Joong-Ho (Johann) Won
 **References**: [Advanced R](http://adv-r.had.co.nz/) ([Korean translation](http://jpub.tistory.com/792)); 
     [The Art of R Programming](https://nostarch.com/artofr.htm) ([Korean translation](http://www.acornpub.co.kr/book/r-programming))
 
-**Syllabus**: [Link, in Korean]()
+**Syllabus**: [Link, in Korean](./syllabus2018.pdf)
 
 ## Course Learning Outcomes
 
@@ -49,7 +50,7 @@ The following schedule is tentative, and is subject to change over the course.
 
 | Week | Topic | Reading | Assignment | Due Date |
 |---| --- | --- | --- | --- |
-| 1 (9/3, 9/5)      | Introduction, Data Visualization | Chs. 1, 2, 3 |   |  |
+| 1 (9/3, 9/5)      | [Introduction](./lectures/01-intro.html), [Data Visualization](./lectures/02-visualization.html) | Chs. 1, 2, 3 |   |  |
 | 2 (9/10, 9/12)    | Workflows, R Markdown | Chs. 4, 6, 8, 27 |  |  |
 | 3 (9/17, 9/19)    | Graphics | Ch. 28 |  |  |
 | 4 (9/24, 9/26)    | *Chusok recess* | - |  |  |
