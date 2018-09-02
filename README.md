@@ -21,7 +21,7 @@ Joong-Ho (Johann) Won
 
 **Syllabus**: [Link, in Korean](./syllabus2018.pdf)
 
-## Course Learning Outcomes
+## Course Objectives
 
 By the end of this course, you will be able to
 
