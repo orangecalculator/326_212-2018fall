@@ -9,7 +9,7 @@ Joong-Ho (Johann) Won
 **Email**: wonj AT stats DOT snu DOT ac DOT kr
 
 **Class Time**: Mondays 9:00 - 10:50 AM in 28-301 (lecture);
-    Wednesdays 9:00 - 9:50 AM in 25-203 (lab session 1)
+    Wednesdays 9:00 - 9:50 AM in 25-203 (lab session 1),
     Wednesdays 10:00 - 11:50 AM in 25-203 (lab session 2)
 
 **Office Hours**: TBD
@@ -25,11 +25,11 @@ Joong-Ho (Johann) Won
 
 By the end of this course, you will be able to
 
-- Basic programming skills using the [R programming language](https://www.r-project.org)
-- Proficiently wrangle, manipulate, and explore data using R
-- Utilize contemporary R packages, especially the [tidyverse](https://www.tidyverse.org)
-- Visualize, present, and communicate trends in a variety of data types
-- Formulate data-driven hypotheses using exploratory data analysis and introductory model building techniques
+- acquire basic programming skills using the [R programming language](https://www.r-project.org);
+- proficiently wrangle, manipulate, and explore data using R;
+- utilize contemporary R packages, especially the [tidyverse](https://www.tidyverse.org);
+- visualize, present, and communicate trends in a variety of data types;
+- formulate data-driven hypotheses using exploratory data analysis and introductory model building techniques.
 
 ## Course Overview
 
