@@ -2,6 +2,10 @@
 
 This is the course website for 326.212: "Statistical Computing and Labs" at Seoul National University in Fall 2018. Assignments, lecture notes, and open source code will all be available on this website.
 
+## Announcements
+
+2018-09-04: Your lab session has been assigned. Check out at the [eTL](http://etl.snu.ac.kr).
+
 ## Instructor 
 
 Joong-Ho (Johann) Won
@@ -10,7 +14,7 @@ Joong-Ho (Johann) Won
 
 **Class Time**: Mondays 9:00 - 10:50 AM in 28-301 (lecture);
     Wednesdays 9:00 - 9:50 AM in 25-203 (lab session 1),
-    Wednesdays 10:00 - 11:50 AM in 25-203 (lab session 2)
+    Wednesdays 10:00 - 10:50 AM in 25-203 (lab session 2)
 
 **Office Hours**: TBD
 
