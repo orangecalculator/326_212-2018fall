@@ -16,7 +16,7 @@ Joong-Ho (Johann) Won
     Wednesdays 9:00 - 9:50 AM in 25-203 (lab session 1),
     Wednesdays 10:00 - 10:50 AM in 25-203 (lab session 2)
 
-**Office Hours**: TBD
+**Office Hours**: MW 12:15 - 01:15 PM
 
 **Textbook**: [R for Data Science](http://r4ds.had.co.nz/index.html) by Hadley Wickham and Garret Grolemund
 
