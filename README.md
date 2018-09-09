@@ -4,8 +4,6 @@ This is the course website for 326.212: "Statistical Computing and Labs" at Seou
 
 ## Announcements
 
-* 2018-09-05: This course is open only to the studuents who  __currently__ major/double-major/minor statistics. Those who registered for this course but do not fall into this category will __NOT__ receive a credit.
-
 * 2018-09-04: Your lab session has been assigned. Check out at the [eTL](http://etl.snu.ac.kr).
 
 ## Instructor 
@@ -57,7 +55,7 @@ The following schedule is tentative, and is subject to change over the course.
 | Week | Topic | Reading | Assignment | Due Date |
 |---| --- | --- | --- | --- |
 | 1 (9/3, 9/5)      | [Introduction](./lectures/01-intro.html), [Data Visualization](./lectures/02-visualization.html) | Chs. 1, 2, 3 |   |  |
-| 2 (9/10, 9/12)    | Workflows, R Markdown | Chs. 4, 6, 8, 27 |  |  |
+| 2 (9/10, 9/12)    | Workflows, R Markdown | Chs. 4, 6, 8, 27 | [Homework 1](./hw/hw1.html) | 9/16/2018  |
 | 3 (9/17, 9/19)    | Graphics | Ch. 28 |  |  |
 | 4 (9/24, 9/26)    | *Chusok recess* | - |  |  |
 | 5 (10/1, 10/3)    | Data Transformation | Ch. 5 |  |  |
