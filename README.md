@@ -4,6 +4,8 @@ This is the course website for 326.212: "Statistical Computing and Labs" at Seou
 
 ## Announcements
 
+* 2018-09-22: Homework 2 is announced.
+* 2018-09-09: Homework 1 is announced.
 * 2018-09-04: Your lab session has been assigned. Check out at the [eTL](http://etl.snu.ac.kr).
 
 ## Instructor 
