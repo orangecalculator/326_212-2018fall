@@ -58,7 +58,7 @@ The following schedule is tentative, and is subject to change over the course.
 |---| --- | --- | --- | --- |
 | 1 (9/3, 9/5)      | [Introduction](./lectures/01-intro.html), [Data Visualization](./lectures/02-visualization.html) | Chs. 1, 2, 3 |   |  |
 | 2 (9/10, 9/12)    | Workflows, R Markdown | Chs. 4, 6, 8, 27 | [Homework 1](./hw/hw1.html) | 9/16/2018  |
-| 3 (9/17, 9/19)    | [Data Visualization and Graphics](./lectures/02-visualization.html), [Data Transformation](./lectures/03-transformation.html) | Chs. 28, 5 |  |  |
+| 3 (9/17, 9/19)    | [Data Visualization and Graphics](./lectures/02-visualization.html), [Data Transformation](./lectures/03-transformation.html) | Chs. 28, 5 | [Homework 2](./hw/hw2.html) | 9/30/2018  |
 | 4 (9/24, 9/26)    | *Chusok recess* | - |  |  |
 | 5 (10/1, 10/3)    | Data Transformation | Ch. 5 |  |  |
 | 6 (10/8, 10/10)   | Exploratory Data Analysis | Ch. 7 |  |  |
