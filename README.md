@@ -60,8 +60,8 @@ The following schedule is tentative, and is subject to change over the course.
 | 2 (9/10, 9/12)    | Workflows, R Markdown | Chs. 4, 6, 8, 27 | [Homework 1](./hw/hw1.html) | 9/16/2018  |
 | 3 (9/17, 9/19)    | [Data Visualization and Graphics](./lectures/02-visualization.html), [Data Transformation](./lectures/03-transformation.html) | Chs. 28, 5 | [Homework 2](./hw/hw2.html) | 9/30/2018  |
 | 4 (9/24, 9/26)    | *Chusok recess* | - |  |  |
-| 5 (10/1, 10/3)    | Data Transformation | Ch. 5 |  |  |
-| 6 (10/8, 10/10)   | Exploratory Data Analysis | Ch. 7 |  |  |
+| 5 (10/1, 10/3)    | [Data Transformation](./lectures/03-transformation.html) | Ch. 5 |  |  |
+| 6 (10/8, 10/10)   | [Exploratory Data Analysis](./lectures/04-EDA.html) | Ch. 7 |  |  |
 | 7 (10/15, 10/17)  | Import and Tidy Data | Chs. 10, 11, 12 |  |  |
 | 8 (10/22, 10/24)  | Relational Data, Strings | Chs. 13, 14 |  |  |
 | 9 (10/29, 10/31)  | Factors, Date and Times | Chs. 15, 16 |  |  |
