@@ -11,7 +11,7 @@
 
 <meta name="author" content="Joong-Ho Won @ SNU" />
 
-<meta name="date" content="2018-09-30" />
+<meta name="date" content="2018-10-01" />
 
 <title>Lecture 3: Data Transformation</title>
 
@@ -126,7 +126,7 @@ $(document).ready(function () {
 
 <h1 class="title toc-ignore">Lecture 3: Data Transformation</h1>
 <h4 class="author"><em>Joong-Ho Won @ SNU</em></h4>
-<h4 class="date"><em>September 30, 2018</em></h4>
+<h4 class="date"><em>October 01, 2018</em></h4>
 
 </div>
 
@@ -460,7 +460,13 @@ head(tmp)</code></pre>
 <ul>
 <li><p>Only keep the new variables by <code>transmute()</code>:</p>
 <pre class="r"><code>tmp &lt;- transmute(flights, gain = arr_delay - dep_delay,
-  hours = air_time / 60, gain_per_hour = gain / hours )</code></pre></li>
+  hours = air_time / 60, gain_per_hour = gain / hours )
+head(tmp)</code></pre>
+<div data-pagedtable="false">
+<script data-pagedtable-source type="application/json">
+{"columns":[{"label":["gain"],"name":[1],"type":["dbl"],"align":["right"]},{"label":["hours"],"name":[2],"type":["dbl"],"align":["right"]},{"label":["gain_per_hour"],"name":[3],"type":["dbl"],"align":["right"]}],"data":[{"1":"9","2":"3.783333","3":"2.378855"},{"1":"16","2":"3.783333","3":"4.229075"},{"1":"31","2":"2.666667","3":"11.625000"},{"1":"-17","2":"3.050000","3":"-5.573770"},{"1":"-19","2":"1.933333","3":"-9.827586"},{"1":"16","2":"2.500000","3":"6.400000"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
+  </script>
+</div></li>
 </ul>
 <div id="useful-creation-functions" class="section level3">
 <h3>Useful creation functions</h3>
