@@ -4,6 +4,7 @@ This is the course website for 326.212: "Statistical Computing and Labs" at Seou
 
 ## Announcements
 
+* 2018-10-10: Homework 3 is announced.
 * 2018-09-22: Homework 2 is announced.
 * 2018-09-09: Homework 1 is announced.
 * 2018-09-04: Your lab session has been assigned. Check out at the [eTL](http://etl.snu.ac.kr).
@@ -61,7 +62,7 @@ The following schedule is tentative, and is subject to change over the course.
 | 3 (9/17, 9/19)    | [Data Visualization and Graphics](./lectures/02-visualization.html), [Data Transformation](./lectures/03-transformation.html) | Chs. 28, 5 | [Homework 2](./hw/hw2.html) | 9/30/2018  |
 | 4 (9/24, 9/26)    | *Chusok recess* | - |  |  |
 | 5 (10/1, 10/3)    | [Data Transformation](./lectures/03-transformation.html) | Ch. 5 |  |  |
-| 6 (10/8, 10/10)   | [Exploratory Data Analysis](./lectures/04-EDA.html) | Ch. 7 |  |  |
+| 6 (10/8, 10/10)   | [Exploratory Data Analysis](./lectures/04-EDA.html) | Ch. 7 | [Homework 3](./hw/hw3.md) | 10/14/2018 |
 | 7 (10/15, 10/17)  | Import and Tidy Data | Chs. 10, 11, 12 |  |  |
 | 8 (10/22, 10/24)  | Relational Data, Strings | Chs. 13, 14 |  |  |
 | 9 (10/29, 10/31)  | Factors, Date and Times | Chs. 15, 16 |  |  |
