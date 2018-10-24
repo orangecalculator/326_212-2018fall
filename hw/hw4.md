@@ -4,6 +4,8 @@ subtitle: Due Nov 4, 2018 @ 11:59pm
 output: html_document
 ---
 
+### Due Nov 4, 2018 @ 11:59pm
+
 # Chapter 10
 
 ## Textbook 10.5
