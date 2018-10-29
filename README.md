@@ -65,7 +65,7 @@ The following schedule is tentative, and is subject to change over the course.
 | 5 (10/1, 10/3)    | [Data Transformation](./lectures/03-transformation.html) | Ch. 5 |  |  |
 | 6 (10/8, 10/10)   | [Exploratory Data Analysis](./lectures/04-EDA.html) | Ch. 7 | [Homework 3](./hw/hw3.md) | 10/14/2018 |
 | 7 (10/15, 10/17)  | [Import and Tidy Data](./lectures/05-tidy.html) | Chs. 10, 11, 12 |  |  |
-| 8 (10/22, 10/24)  | [Relational Data](./lectures/06-relational.html), Strings | Chs. 13, 14 | [Homework 4](./hw/hw4.md) | 11/04/2018 |
+| 8 (10/22, 10/24)  | [Relational Data](./lectures/06-relational.html), [Strings](./lectures/07-strings.html) | Chs. 13, 14 | [Homework 4](./hw/hw4.md) | 11/04/2018 |
 | 9 (10/29, 10/31)  | Factors, Date and Times | Chs. 15, 16 |  |  |
 | 10 (11/5, 11/7)   | Vectors | Ch. 20 |  |  |
 | 11 (11/12, 11/14) | Functions, Pipes | Chs. 19, 18 |  |  |
