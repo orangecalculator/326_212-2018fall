@@ -24,4 +24,3 @@ Problem 1, 2, 3
 
 Problem 1, 2, 4
 
-Problem 1, 2, 3
