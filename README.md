@@ -66,10 +66,10 @@ The following schedule is tentative, and is subject to change over the course.
 | 5 (10/1, 10/3)    | [Data Transformation](./lectures/03-transformation.html) | Ch. 5 |  |  |
 | 6 (10/8, 10/10)   | [Exploratory Data Analysis](./lectures/04-EDA.html) | Ch. 7 | [Homework 3](./hw/hw3.md) | 10/14/2018 |
 | 7 (10/15, 10/17)  | [Import and Tidy Data](./lectures/05-tidy.html) | Chs. 10, 11, 12 |  |  |
-| 8 (10/22, 10/24)  | [Relational Data](./lectures/06-relational.html) | Ch. 13 | [Homework 4](./hw/hw4.md) | 11/04/2018 |
-| 9 (10/29, 10/31)  | [Strings](./lectures/07-string.html), Factors, Date and Times | Chs. 14, 15, 16 |  [Homework 5](./hw/hw5.md) | 11/11/2018 |
-| 10 (11/5, 11/7)   | Vectors | Ch. 20 |  |  |
-| 11 (11/12, 11/14) | Functions, Pipes | Chs. 19, 18 |  |  |
+| 8 (10/22, 10/24)  | [Import and Tidy Data](./lectures/05-tidy.html) | Chs. 10, 11, 12 | [Homework 4](./hw/hw4.md) | 11/04/2018 |
+| 9 (10/29, 10/31)  | [Relational Data](./lectures/06-relational.html) | Ch. 13 | [Homework 5](./hw/hw5.md) | 11/11/2018 |
+| 10 (11/5, 11/7)   | [Strings](./lectures/07-string.html), [Factors, Date and Times](./lectures/08-factors.html) | Chs. 14, 15, 16 |  |  |
+| 11 (11/12, 11/14) | Vectors, Functions, Pipes | Chs. 20, 19, 18 |  |  |
 | 12 (11/19, 11/21) | Iteration | Ch. 20 |  |  |
 | 13 (11/26, 11/28) | Model Basics | Ch. 23 |  |  |
 | 14 (12/3, 12/5)   | Model Building | Ch. 24 |  |  |
