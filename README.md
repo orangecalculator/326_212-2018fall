@@ -4,6 +4,9 @@ This is the course website for 326.212: "Statistical Computing and Labs" at Seou
 
 ## Announcements
 
+* 2018-11-15: [Final Project](./project/project.md) is announced.
+* 2018-11-15: Homework 7 is announced.
+* 2018-11-15: Correction to Homework 6.
 * 2018-11-07: Homework 6 is announced.
 * 2018-11-07: There will be no midterm project.
 * 2018-10-31: Homework 5 is announced.
@@ -51,7 +54,7 @@ The course will be graded based on the following components:
 - **Attendence** (10%): Includes both the lecture and the lab sessions.
 - **Assignments** (30%): You will be assigned a computational assignment to be completed using RStudio and the package *knitr* regularly throughout class. 
 - **Quizes** (20%): Unscheduled quizes will be frequently given throughout the class during the lab sessions.
-- **Midterm and final projects** (40%): Each project will be a computational case study that brings together the techniques learned throughout the semester. The descriptions for projects will be provided towards the midpoint of the semester.
+- **Final project** (40%): Each project will be a computational case study that brings together the techniques learned throughout the semester. The descriptions for projects will be provided towards the midpoint of the semester.
 
 ### Schedule
 
@@ -71,7 +74,7 @@ The following schedule is tentative, and is subject to change over the course.
 | 8 (10/22, 10/24)  | [Import and Tidy Data](./lectures/05-tidy.html) | Chs. 10, 11, 12 | [Homework 4](./hw/hw4.md) | 11/04/2018 |
 | 9 (10/29, 10/31)  | [Relational Data](./lectures/06-relational.html) | Ch. 13 | [Homework 5](./hw/hw5.md) | 11/11/2018 |
 | 10 (11/5, 11/7)   | [Strings](./lectures/07-string.html), [Factors, Date and Times](./lectures/08-factors.html) | Chs. 14, 15, 16 | [Homework 6](./hw/hw6.md) | 11/18/2018 |  |
-| 11 (11/12, 11/14) | [Vectors](./lectures/11-vectors.html), [Functions](./lectures/10-functions.html), [Pipes](./lectures/09-pipe.html) | Chs. 20, 19, 18 |  |  |
+| 11 (11/12, 11/14) | [Vectors](./lectures/11-vectors.html), [Functions](./lectures/10-functions.html), [Pipes](./lectures/09-pipe.html) | Chs. 20, 19, 18 | [Homework 7](./hw/hw7.md) | 11/25/2018  |
 | 12 (11/19, 11/21) | Iteration | Ch. 20 |  |  |
 | 13 (11/26, 11/28) | Model Basics | Ch. 23 |  |  |
 | 14 (12/3, 12/5)   | Model Building | Ch. 24 |  |  |
