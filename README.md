@@ -4,6 +4,8 @@ This is the course website for 326.212: "Statistical Computing and Labs" at Seou
 
 ## Announcements
 
+* 2018-11-22: A simple task is added to Part 1, problem 1 of the Final Project. This should help doing problem 4.
+* 2018-11-22: Typo in Homework 7 is fixed.
 * 2018-11-15: [Final Project](./project/project.md) is announced.
 * 2018-11-15: Homework 7 is announced.
 * 2018-11-15: Correction to Homework 6.
@@ -78,7 +80,7 @@ The following schedule is tentative, and is subject to change over the course.
 | 12 (11/19, 11/21) | [Iteration](./lectures/12-iteration.html) | Ch. 20 |  |  |
 | 13 (11/26, 11/28) | Model Basics | Ch. 23 |  |  |
 | 14 (12/3, 12/5)   | Model Building | Ch. 24 |  |  |
-| 15 (12/10, 12/12) | Final Project | - |  |  |
+| 15 (12/10, 12/12) | [Final Project]((./project/project.md) | - |  |  |
 
 
 ## Acknowledgment

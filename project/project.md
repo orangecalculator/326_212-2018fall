@@ -110,13 +110,13 @@ In this part of the project we construct a relational database using the `RSQLit
     dbDisconnect(con)
     ```
 
-    -   Now use `dplyr` to query the databasei. Of course, you need to reconnect to the database:
+    -   Now use `dplyr` to query the database. Of course, you need to reconnect to the database:
 
     ``` r
     recon <- dbConnect(RSQLite::SQLite(), "employee.sqlite")
     emp <- dplyr::tbl(recon, "employees")
     str(emp)
-    ph <- dplyr::tbl(recon, "ph")
+    ph <- dplyr::tbl(recon, "phone")
     str(ph)
     ```
 
@@ -128,6 +128,13 @@ In this part of the project we construct a relational database using the `RSQLit
         arrange(salary)
     addr
     left_join(emp,ph)
+    ```
+
+    -   You can do the similar task by directly feeding [SQL](https://en.wikipedia.org/wiki/SQL), the language for database, through DBI:
+
+    ``` r
+    res <- dbSendQuery(con, "SELECT * FROM employees")
+    dbFetch(res)
     ```
 
     -   Don't forget to disconnect after you finish your job:
