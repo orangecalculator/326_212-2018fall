@@ -79,7 +79,7 @@ The following schedule is tentative, and is subject to change over the course.
 | 10 (11/5, 11/7)   | [Strings](./lectures/07-string.html), [Factors, Date and Times](./lectures/08-factors.html) | Chs. 14, 15, 16 | [Homework 6](./hw/hw6.md) | 11/18/2018 |  |
 | 11 (11/12, 11/14) | [Vectors](./lectures/11-vectors.html), [Functions](./lectures/10-functions.html), [Pipes](./lectures/09-pipe.html) | Chs. 20, 19, 18 | [Homework 7](./hw/hw7.md) | 11/25/2018  |
 | 12 (11/19, 11/21) | [Iteration](./lectures/12-iteration.html) | Ch. 20 |  |  |
-| 13 (11/26, 11/28) | Model Basics | Ch. 23 |  |  |
+| 13 (11/26, 11/28) | [Model Basics](./lectures/13-model_basics.html) | Ch. 23 |  |  |
 | 14 (12/3, 12/5)   | Model Building | Ch. 24 |  |  |
 | 15 (12/10, 12/12) | [Final Project](./project/project.md) | - |  |  |
 
