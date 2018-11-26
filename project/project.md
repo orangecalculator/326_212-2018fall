@@ -133,8 +133,9 @@ In this part of the project we construct a relational database using the `RSQLit
     -   You can do the similar task by directly feeding [SQL](https://en.wikipedia.org/wiki/SQL), the language for database, through DBI:
 
     ``` r
-    res <- dbSendQuery(con, "SELECT * FROM employees")
+    res <- dbSendQuery(recon, "SELECT * FROM employees")
     dbFetch(res)
+    dbClearResult(res)
     ```
 
     -   Don't forget to disconnect after you finish your job:
