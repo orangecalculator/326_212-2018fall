@@ -167,7 +167,7 @@ Part 2. Basic Questions (150 pts)
 
 1.  We first start by exploring the `airports` table. Using `dplyr::filter()`, find out which airports the codes "SNA", "SJC", and "SMF" belong to.
 
-2.  Aggregate the counts of flights at all three of these airports at the monthly level (in the `flights` table) into a new data frame `airportcounts`. You may find `dplyr` functions `group_by()`, `summarise()`, `collect()`, and the pipe operator `%>%` useful.
+2.  Aggregate the counts of flights *to* all three of these airports at the monthly level (in the `flights` table) into a new data frame `airportcounts`. You may find `dplyr` functions `group_by()`, `summarise()`, `collect()`, and the pipe operator `%>%` useful.
 
 3.  Add a new column to `airportcounts` by constructing a `Date` variable from the variables `Year` and `Month` (using helper functions from the `lubridate` package). Sort the rows in ascending order of dates.
 
