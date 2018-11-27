@@ -52,7 +52,11 @@ The dataset
     28   SecurityDelay  in minutes
     29   LateAircraftDelay  in minutes
 
-Download files `airports.csv`, `carriers.csv`, and `plane-data.csv` from The [Supplemental data page](http://stat-computing.org/dataexpo/2009/supplemental-data.html) contains additional data on airport names and locations, airline companies, and specific airplanes.
+Download and rename the following auxiliary files:
+
+    - `airlines.csv` from <http://www.transtats.bts.gov/Download_Lookup.asp?Lookup=L_UNIQUE_CARRIERS>
+    - `airports.csv` from <https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat>
+    - `airplanes.csv` from [here](./airplanes.csv)
 
 -   **Caution**
     -   Each file has a header.
@@ -146,13 +150,15 @@ In this part of the project we construct a relational database using the `RSQLit
 
     Now the task: provide all the outputs from the above R scripts.
 
-2.  (40 pts) We start with small tables. Download files `airports.csv`, `carriers.csv`, and `plane-data.csv` from the [Supplemental data page](http://stat-computing.org/dataexpo/2009/supplemental-data.html). Rename `carries.csv` as `airlines.csv`, and `plane-data.csv` as `planes.csv`. Then write an R code snippet that creates a SQLite database containing these three tables in the same names as the filenames (without the extension). You may need some editing to read the csv files into R.
+2.  (40 pts) We start with small tables. Download files `airports.csv`, `airlines.csv`, and `airplanes.csv` as described above. Then write an R code snippet that creates a SQLite database containing these three tables in the same names as the filenames (without the extension). You may need some editing to read the csv files into R.
 
 3.  (40 pts) Download files `1987.csv.bz2` through `2008.csv.bz2` from the Data Expo website above. Do *NOT* uncompress the files. `readr::read_csv()` supports reading bz2-compressed csv files directly. Using a `for` loop, write an R code snippet that creates a database table `flights` that contain all the data from 1987 through 2008. (Hint: study `append` option in `dbWriteTable()`.)
 
-4.  (40 pts) The created database is more than 10 GB, and accessing the data is this large database takes long time even with a database management system. To speed up access to the data, you need to add indices. In this [page](http://stat-computing.org/dataexpo/2009/sqlite.html) of the Data Expo website, read the section "Adding indices," and write an R code snippet that adds indices to the database you've just created.
+4.  (40 pts) The created database is more than 10 GB, and accessing the data is this large database takes long time even with a database management system. To speed up access to the data, you need to add indices. In this [page](http://stat-computing.org/dataexpo/2009/sqlite.html) of the Data Expo website, read the section "Adding indices," and write an R code snippet that adds indices to the database you've just created. (Hint. most of the codes in the Data Expo webpage are SQL queries.)
 
-5.  (10 pts) Put all the R code snippets you wrote into `flightdata.R` file so that `source()`ing this file will create the database at once.
+**Caution**: Indexing takes a lot of hard disk space. If your disk space is limited, then you may skip this step. However, you should nevertheless write a working code and submit.
+
+1.  (10 pts) Put all the R code snippets you wrote into `flightdata.R` file so that `source()`ing this file will create the database at once.
 
 Part 2. Basic Questions (150 pts)
 ---------------------------------
@@ -171,9 +177,9 @@ Part 2. Basic Questions (150 pts)
 
 ### Q2. Finding reliable airlines (60 pts)
 
-Which airline was most reliable flying from Chicago O'Hare (ORD) to Minneapolis/St. Paul (MSP) in January 2005?
+Which airline was most reliable flying from Chicago O'Hare (ORD) to Minneapolis/St. Paul (MSP) in Year 2005?
 
-1.  Create a data frame `delays` that contains the average delay for each day in 2005 for four airlines: United (UA), Northwest (NW), American (AA), and American Eagle (MQ). Your data frame must contain only necessary variables, to save the memory space.
+1.  Create a data frame `delays` that contains the average *arrival* delay for each day in 2005 for four airlines: United (UA), Northwest (NW), American (AA), and American Eagle (MQ). Your data frame must contain only necessary variables, to save the memory space.
 
 2.  Compare the average delay of the three airlines by generating density plots comparing them in a single panel. In doing this, use a join function to provide the full names of the airlines in the legend of the plot. Which airline is the most reliable? which is the least?
 
