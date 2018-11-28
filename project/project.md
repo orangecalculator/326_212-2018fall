@@ -52,12 +52,10 @@ The dataset
     28   SecurityDelay  in minutes
     29   LateAircraftDelay  in minutes
 
-Download and rename the following auxiliary files:
-
-    - `airlines.csv` from <http://www.transtats.bts.gov/Download_Lookup.asp?Lookup=L_UNIQUE_CARRIERS>
-    - `airports.csv` from <https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat>
-    - `airplanes.csv` from [here](./airplanes.csv)
-
+-   Download and rename the following auxiliary files:
+    -   `airlines.csv` from <http://www.transtats.bts.gov/Download_Lookup.asp?Lookup=L_UNIQUE_CARRIERS>
+    -   `airports.csv` from <https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat>
+    -   `airplanes.csv` from [here](./airplanes.csv)
 -   **Caution**
     -   Each file has a header.
     -   Years near 1987 has many `NA`s.
