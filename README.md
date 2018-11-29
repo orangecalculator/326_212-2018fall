@@ -4,6 +4,7 @@ This is the course website for 326.212: "Statistical Computing and Labs" at Seou
 
 ## Announcements
 
+* 2018-11-27: Final project: typo in Part2-Q2 is fixed.
 * 2018-11-27: Final project: directions to Part 1-2, 1-4, Part2-Q2 are clarified.
 * 2018-11-26: Final project: typo in the added problem to Part 1 is fixed.
 * 2018-11-22: A simple task is added to Part 1, problem 1 of the Final Project. This should help doing problem 4.

@@ -179,7 +179,7 @@ Which airline was most reliable flying from Chicago O'Hare (ORD) to Minneapolis/
 
 1.  Create a data frame `delays` that contains the average *arrival* delay for each day in 2005 for four airlines: United (UA), Northwest (NW), American (AA), and American Eagle (MQ). Your data frame must contain only necessary variables, to save the memory space.
 
-2.  Compare the average delay of the three airlines by generating density plots comparing them in a single panel. In doing this, use a join function to provide the full names of the airlines in the legend of the plot. Which airline is the most reliable? which is the least?
+2.  Compare the average delay of the four airlines by generating density plots comparing them in a single panel. In doing this, use a join function to provide the full names of the airlines in the legend of the plot. Which airline is the most reliable? which is the least?
 
 ### Q3. All flights (30 pts)
 
