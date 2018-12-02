@@ -148,7 +148,7 @@ In this part of the project we construct a relational database using the `RSQLit
 
     Now the task: provide all the outputs from the above R scripts.
 
-2.  (40 pts) We start with small tables. Download files `airports.csv`, `airlines.csv`, and `airplanes.csv` as described above. Then write an R code snippet that creates a SQLite database containing these three tables in the same names as the filenames (without the extension). You may need some editing to read the csv files into R.
+2.  (40 pts) We start with small tables. Download files `airports.csv`, `airlines.csv`, and `airplanes.csv` as described above. Then write an R code snippet that creates a SQLite database containing these three tables in the same names as the filenames (without the extension). ~~You may need some editing to read the csv files into R.~~
 
 3.  (40 pts) Download files `1987.csv.bz2` through `2008.csv.bz2` from the Data Expo website above. Do *NOT* uncompress the files. `readr::read_csv()` supports reading bz2-compressed csv files directly. Using a `for` loop, write an R code snippet that creates a database table `flights` that contain all the data from 1987 through 2008. (Hint: study `append` option in `dbWriteTable()`.)
 
