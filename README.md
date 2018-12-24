@@ -4,6 +4,7 @@ This is the course website for 326.212: "Statistical Computing and Labs" at Seou
 
 ## Announcements
 
+* 2018-11-27: Final project: typo in Part2-Q2 is fixed.
 * 2018-11-27: Final project: directions to Part 1-2, 1-4, Part2-Q2 are clarified.
 * 2018-11-26: Final project: typo in the added problem to Part 1 is fixed.
 * 2018-11-22: A simple task is added to Part 1, problem 1 of the Final Project. This should help doing problem 4.
@@ -78,11 +79,11 @@ The following schedule is tentative, and is subject to change over the course.
 | 8 (10/22, 10/24)  | [Import and Tidy Data](./lectures/05-tidy.html) | Chs. 10, 11, 12 | [Homework 4](./hw/hw4.md) | 11/04/2018 |
 | 9 (10/29, 10/31)  | [Relational Data](./lectures/06-relational.html) | Ch. 13 | [Homework 5](./hw/hw5.md) | 11/11/2018 |
 | 10 (11/5, 11/7)   | [Strings](./lectures/07-string.html), [Factors, Date and Times](./lectures/08-factors.html) | Chs. 14, 15, 16 | [Homework 6](./hw/hw6.md) | 11/18/2018 |  |
-| 11 (11/12, 11/14) | [Vectors](./lectures/11-vectors.html), [Functions](./lectures/10-functions.html), [Pipes](./lectures/09-pipe.html) | Chs. 20, 19, 18 | [Homework 7](./hw/hw7.md) | 11/25/2018  |
-| 12 (11/19, 11/21) | [Iteration](./lectures/12-iteration.html) | Ch. 20 |  |  |
-| 13 (11/26, 11/28) | [Model Basics](./lectures/13-model_basics.html) | Ch. 23 |  |  |
-| 14 (12/3, 12/5)   | Model Building | Ch. 24 |  |  |
-| 15 (12/10, 12/12) | [Final Project](./project/project.md) | - |  |  |
+| 11 (11/12, 11/14) | [Vectors](./lectures/11-vectors.html), | Ch. 20 | [Homework 7](./hw/hw7.md) | 11/25/2018  |
+| 12 (11/19, 11/21) | [Functions](./lectures/10-functions.html), [Pipes](./lectures/09-pipe.html) | Chs. 19, 18 | [Final Project](./project/project.md)  | 12/12/2018  |
+| 13 (11/26, 11/28) | [Iteration](./lectures/12-iteration.html) | Ch. 20 |  |  |
+| 14 (12/3, 12/5)   | [Model Basics](./lectures/13-model_basics.html) | Ch. 23  |  |  |
+| 15 (12/10, 12/12) | [Model Building](./lectures/14-model_building.html) | Ch. 24 |  |  |
 
 
 ## Acknowledgment
